@@ -1,0 +1,48 @@
+# --- VIRTUAL ENVIRONMENT ---
+# Ignore the Python virtual environment folder
+/venv/
+/env/
+
+# --- SENSITIVE DATA (CRITICAL) ---
+# Ignore files containing API keys and secrets
+.env
+.env.local
+.env.*
+
+# --- PYTHON AND DJANGO ARTIFACTS ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+local_settings.py
+db.sqlite3          # SQLite database file
+/media              # User-uploaded files (should be served separately)
+/staticfiles        # Collected static assets
+/logs/              # Log files created by the logging configuration
+
+# --- CELERY/REDIS/DB ARTIFACTS ---
+celerybeat-schedule
+celerybeat.pid
+dump.rdb            # Redis persistent data file
+
+# --- NODE/REACT FRONTEND ---
+# Ignore the entire node_modules folder inside the 'frontend' app
+/frontend/node_modules/
+# Ignore React build output
+/frontend/build/
+# Frontend log files and IDE config
+/frontend/npm-debug.log*
+/frontend/yarn-error.log*
+/frontend/package-lock.json
+/frontend/yarn.lock
+
+# --- IDE/OS TEMPORARY FILES ---
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
