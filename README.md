@@ -1,4 +1,4 @@
-# 🛍️ ShopWise AI
+#  ShopWise AI
 
 <!-- <div align="center">
 
@@ -20,29 +20,29 @@
 
 ---
 
-## 🎯 What is ShopWise AI?
+##  What is ShopWise AI?
 
 **ShopWise AI** is an enterprise-grade artificial intelligence platform that revolutionizes e-commerce product research. By combining sophisticated web intelligence, vector embeddings, and conversational AI, ShopWise AI enables businesses and consumers to have natural conversations with Amazon product data—instantly extracting insights from specifications, customer reviews, Q&As, and market trends.
 
-### 💡 The Problem We Solve
+###  The Problem We Solve
 
 **Traditional Product Research is Broken:**
-- ⏰ Hours spent reading through hundreds of reviews
-- 🔍 Difficulty finding specific information across multiple sources
-- 📊 No centralized intelligence for product comparison
-- 🤖 Manual, time-consuming, and error-prone processes
-- 💸 Missed opportunities due to incomplete information
+-  Hours spent reading through hundreds of reviews
+-  Difficulty finding specific information across multiple sources
+-  No centralized intelligence for product comparison
+-  Manual, time-consuming, and error-prone processes
+-  Missed opportunities due to incomplete information
 
 **ShopWise AI Changes Everything:**
-- ✨ Ask questions in natural language, get instant answers
-- 🚀 90% reduction in research time
-- 🎯 AI-powered insights backed by real customer data
-- ⚡ Real-time product intelligence at scale
-- 📈 Data-driven decision making for e-commerce success
+-  Ask questions in natural language, get instant answers
+-  90% reduction in research time
+-  AI-powered insights backed by real customer data
+-  Real-time product intelligence at scale
+-  Data-driven decision making for e-commerce success
 
 ---
 
-## 🌟 Why ShopWise AI?
+##  Why ShopWise AI?
 
 ### For E-Commerce Businesses
 
