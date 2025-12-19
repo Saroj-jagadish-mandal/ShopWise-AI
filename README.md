@@ -71,10 +71,14 @@ flowchart TB
 
 <p align="center">
   <img src="screenshots/screenshot_1.png" alt="Home Page" width="45%" />
+</p>
+<p align="center">
   <img src="screenshots/screenshot_2.png" alt="Chat Interface" width="45%" />
 </p>
 <p align="center">
   <img src="screenshots/screenshot_3.png" alt="Product List" width="45%" />
+</p>
+<p align="center">
   <img src="screenshots/screenshot_4.png" alt="Dark Mode" width="45%" />
 </p>
 
