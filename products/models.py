@@ -13,7 +13,7 @@ class Product(models.Model):
         ('completed', 'Completed'),
         ('failed', 'Failed'),
     ]
-    
+   
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     url = models.URLField(max_length=500, unique=True)
     title = models.TextField(blank=True, null=True)

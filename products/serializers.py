@@ -46,6 +46,7 @@ class ProductDetailSerializer(serializers.ModelSerializer):
     
     def get_review_count(self, obj):
         return obj.reviews.count()
+    
 
 
 class ProductCreateSerializer(serializers.ModelSerializer):
